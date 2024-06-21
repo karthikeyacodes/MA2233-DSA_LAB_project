@@ -14,10 +14,10 @@ To set up and run this project, follow these steps:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/karthikeyacodes/MA2233-DSA_LAB_project.git
     ```
 2. Navigate to the project directory:
     ```bash
     cd your-repo-name
     ```
-3. Ensure you have the required dependencies installed. For this project, you might need G++ Compiler and text editor to look into the project
+3. Ensure you have the required dependencies installed. For this project, you might need G++ Compiler and text editor to look into the codes.
